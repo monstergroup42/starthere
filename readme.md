@@ -1,5 +1,4 @@
-====
-title: Parametric approximation of functions via neural networks
+Parametric approximation of functions via neural networks
 ====
 
 I aim to develop better and more robust method of approximating real valued
